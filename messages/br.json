@@ -1,0 +1,9 @@
+{
+  "Index": {
+    "title": "Olá mundo!",
+    "select": {
+      "label": "Linguagem",
+      "description": "Selecione a linguagem"
+    }
+  }
+}
